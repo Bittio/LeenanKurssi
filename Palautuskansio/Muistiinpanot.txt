@@ -1,11 +1,45 @@
-1. Perinteinen
+1. Perinteinen vesiputousmalli
 Mallissa edetään vaiheesta toiseen
 Kaikkia vaiheita ei voi suunnitella etukäteen. Ongelmien ilmetyessä malli pitää tehdä kokonaan uudestaan. Vaikea korjata virheitä.
 Säästää aikaa ja raha. Helposti ymmärrettävä. Helppo seurata.
 Käytetään koulussa esim. kurssisuunnitelmissa ja kouluprojekteissa.
 2. Agile Manifest Alliance
+Pidetään ketterän kehityksen perusmääritelmänä.
+Ohjelmistotuotantoprojekteissa käytettäviä menetelmiä.
+17 ketterän kehityksen kannattajaa sopivat yhteisestä perustasta.
+Agilessa on 12 pääperjaatetta.
 3. SCRUM
+Projektihallinnan viitekehitys jota käytetään ohjelmistokehityksessä. Voi soveltaa myös projektihallinnassa. Vaiheustus joka on vahvasti lomittunut.
+Toimintaa jossa ryhmä pyrkii etenemään yksikkönä ja toimimaan tiiviissä yhteistyössä. Malli on tilanteisiin sopiutiva, iitseohjautuia ja nopeita.
+Suunnitteluparaverit kestää enintään 8h. Päiväpalaverit enintään 15min, joissa tehddän suunnitelmat seuraavalle 42 tunnille.
+Scrum vaiheet:
+	sprint
+	sprint suunnittelupalaveri
+	Päiväpalaverit
+	Kehitysjonon työstö
+	sprinnttikatselmus
+	retrospeekki
+Tuoteomistajan tehtävät:
+	Määrittelee
+	Järjestää virstanpylväät
+	Komminikoi osakkaiden kanssa
+	Tiedottaa osakkkaille sovelluskehityksestä	
+	Neuvottelee tärkeysjärjestyktä
+	Varmistaa että kehitys on selkeää
+Scrum masterin tehtävät:
+	poistaaa esteet
+	ryhmän valmentaminen
+	pelisääntöjen noudattaminen
+	Anta työrauhan ja suojaa uusilta vaatimuksilta
+Kehitystiimi vastaa tuotteen kehityspolusta ja julkaisukelvollisuudesta.
+Kehitystiimin tehtävät:
+	analyysi
+	suunnittelu
+	kehittäminen
+	testaus
+	dokumentointi
 4. XP
+
 5. LEAN
 6. TDD
 7. RUP
