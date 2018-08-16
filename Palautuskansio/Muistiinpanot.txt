@@ -1,0 +1,12 @@
+1. Perinteinen
+Mallissa edet‰‰n vaiheesta toiseen
+Kaikkia vaiheita ei voi suunnitella etuk‰teen. Ongelmien ilmetyess‰ malli pit‰‰ tehd‰ kokonaan uudestaan. Vaikea korjata virheit‰.
+S‰‰st‰‰ aikaa ja raha. Helposti ymm‰rrett‰v‰. Helppo seurata.
+K‰ytet‰‰n koulussa esim. kurssisuunnitelmissa ja kouluprojekteissa.
+2. Agile Manifest Alliance
+3. SCRUM
+4. XP
+5. LEAN
+6. TDD
+7. RUP
+8. 
