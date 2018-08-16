@@ -39,8 +39,52 @@ Kehitystiimin tehtävät:
 	testaus
 	dokumentointi
 4. XP
-
-5. LEAN
-6. TDD
-7. RUP
-8. 
+Painottaa mukautuvuutta enemmän ennustavuutta.
+Vaatimukset käydään läpi välittömästi ja otetaan mukaan kehitystyöhön.
+XP:ssä on monia lyhyitä kehityssyklejä.
+XP perustuu viiteen ydinarvoon.
+Pienet ydistykset ovat usein julkaistavia ohjelman versioita, joista asiakas näkee työn edistyksen. 
+Tämän ansiosta asiakkaat voivat antaa palautetta ajoissa, sillä mitä nopemmin tiedät ongelma saat enemmän aikaa sen korjaamiseen.
+Pariohjelmoinnnissa kaksi henkilöä työskentelee yhdellä tietokoneella. Tarkoituksena on se että toinenn ilmoittaa koodaajalle hänen virheensä kun hän tekee sen.
+Koodin yhteysomistuksessa kaikki voi muokata koodia  ilman alkuperäisen kirjoittajankin lupaa. 
+Yhteisomistuksessa on tärkeää hyvä kommunikointi, jottei koodissa tule ristiriitoja.
+Vertauskuvien avulla on tarkois saada asikas, ohjelmoijat ja esimiehet ymmärtämään miten systeemi toimii.  
+5. TDD
+Ensin luodaan uusi testitapaus sen jälkeen testataan toimiiko se. Tällä pyritään varmistumaan ohjelmiston oikea toiminta.
+Kun testikoodi kirjoitetaan etukäteen saadaaan kehittyvä testiverkosto.
+TDD:tä voi hyödyntää myös kouluprojekteissa.
+Mocking on yksikkötestausilmiö, joka auttaa testamaan jokaista objektia erikseen korvaamalla riippuvaiset objektit ennanta määritellyillä/simuloiduilla käytöksellä.
+6. RUP
+Se ei ole itsenäinen prosessi vaan laajennettava kehys, jota mukataan tarpeiden mukaan.
+Voimaantulovaiheessa katsotan onko järjestelmä kannattava tehdä.
+Kehittelyvaiheessa vähentää pahimmat havaitut riskit.
+Rakennusvaiheessa rakennetaan ohjelmisto
+Muutosvaiheessa saadaan järjestelmä tuotantoon ja loppukäyttäjän saataville.
+Päärakennusosat:
+	Roolit: Työntekijälle jaetaan roolit osaamisen mukaan.
+	Tuotteet: Projektin tulos johon sisältyy prototyypit ja dokumentit.
+	Tehtävät: Jaetaan roolin mukaan.
+RUP käytännöt:
+	Kehitä iteratiivisesti.
+	hallinnoi vaatimuksia.
+	Käytä komponentteja.
+	Suunnittele visuaalisesti.
+	Valvo laatua.
+	Hallinnoi muutoksia.
+Hyödyt
+	Käyttää vsiputousmallin parhaimmat osat
+	Keskittyy dokumentoinnin tärkeyteen
+Ongelmat
+	Raskasprosessinen
+	Hidas tiettyihin projekteihin
+	Riippuu liikaa osakkaiden palutteesta
+	Monimutkainen ymmärtää
+7. ASD
+Systeemi, joka sopii jatkuvasti tilanteisiin ja olosuhteisiin.
+ASD:ssä on 3 sykliä jotka ovat Spekulaatio, Yhteistyö ja oppiminen.
+Spekulaatiossa selvitetään mitä asiakas haluaa ja tarvitsee, jonka avulla rakennetaan projektin aikataulutus.
+Yhteistyössää määritelllään työmäärän tasapainoitus, soveltaminenn tilanteisiin, delegointi, ja työstetään projekti. 
+Oppimisessa tavoitellaan virheiden korjausta, designin rakentamista ja testausta. Virheitä ei tarvi pelätä.  
+ASD:tä on helppo soveltaa, koska perjaate on erittäin joustava.
+ASD:ssä ongelmana in ajan hallinta.
+ 
