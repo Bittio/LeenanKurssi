@@ -1,0 +1,2 @@
+﻿Haiseva koodi on koodia joka ei auta koodia tai vaikeuttaa sen ymmärtävyyttä. 
+Lisäksi se vaikeuttaa ja hidastaa koodin kehittämistä.  
