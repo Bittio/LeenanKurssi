@@ -1,0 +1,11 @@
+Puutteet:
+	-Näyttökartoista puuttuu tietoja
+	-Opettajat ei pysty kirjoittamaan arvostoluja
+	-tiimin tietokantataulusta puuttuu tietoja
+	-Käyttötapauksita puuttuu yksityiskohtia
+	-opettajat ei pysty lukemaan päiväkirjamerkintöjä
+	-Pääkäyttäjä ei tee mitään järjestelmässä
+	-Tyyliopas on erittäin suppea
+	-Tiimiin liittymistä tai lisäämistä ei ole määritelty
+	-Näyttökuvissa ?Galleria?
+	
